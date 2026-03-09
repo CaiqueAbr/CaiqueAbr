@@ -82,3 +82,11 @@ Me chamo Caique Abranches, tenho 16 anos e sou de Sâo José dos Campos - SP. Es
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="MySql" 
+    title="MySql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/mysql/original.svg" 
+/>
