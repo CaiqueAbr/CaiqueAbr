@@ -82,5 +82,3 @@ Me chamo Caique Abranches, tenho 16 anos e sou de Sâo José dos Campos - SP. Es
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiqueabr&show_icons=true)
